@@ -1,0 +1,150 @@
+navbar{
+    display:flex;
+    align-self:center;
+    margin:auto;
+    
+    
+}
+nav{
+    flex:1;
+    text-align:center;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+ }
+  nav ul li{
+     display: inline-block;
+     margin-right: 20px;}
+     a{
+         text-decoration: none;
+         color: #555;
+     }
+     p{
+         color: #555;
+     }
+#playbutton{
+    width: 25px;
+    height: 25px;
+    display: grid;
+}
+.box{
+    border:none;
+    display: grid;
+    margin: auto;
+    grid-template:50% 50%;
+
+}
+.words{
+    display: flex;
+}
+.Numbers{
+    display:grid;
+    grid-template:50% 50% 50%;
+
+}
+#pic1{
+    align-self: flex-end;
+}
+.items{
+    display: flex;
+    justify-content: first baseline;
+
+
+}
+.start{
+    display: flex;
+}
+#vase2{
+    width: 300 px;
+    height: 300px;
+}
+#vase3{
+    width: 200px;
+    height: 250px;
+}
+#vase4{
+    width: 250px;
+    height: 250px;
+}
+#vase5{
+    width: 200px;
+    height: 250px;
+}
+#vase8{
+    width: 300px;
+    height: 300px;
+}
+#heading{
+    text-align: center;
+}
+#vase7{
+    width: 300px;
+    height: 300px;
+
+}
+#button{
+    background-color: darkslategrey;
+    color: white;
+}
+#button1{
+    background-color: darkslategrey;
+    color: white;
+}
+#button2{
+    background-color: darkslategrey;
+    color: white;
+
+}
+.container{
+    border:none;
+    display: grid;
+    grid-template-columns: 50% 40%;
+    margin: auto;
+
+}
+.restyle{
+    border:none;
+    display: grid;
+    grid-template-columns: 50% 40%;
+    margin: auto;
+}
+#hr{
+    width: 50px;
+    height: 50px;
+}
+
+.footer{
+    display:flex;
+
+
+}
+.last{
+    border:none;
+    display: grid;
+    grid-template-columns: 50% 40%;
+    margin: auto;
+}
+
+#review{
+    text-align: center;
+}
+.icons{
+    display: flex;
+}
+#vase6{
+    background-color: gray;
+}
+#trackorder{
+    background-color: gray;
+}
+#badge{
+    background-color: gray;
+}
+
+#giftcard{
+    background-color: gray;
+}
+
+
+
